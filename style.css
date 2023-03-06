@@ -1,0 +1,38 @@
+<style>
+body {
+  background-color: #31af4d;
+}
+
+div {
+  background-color: #c1d896;
+  padding: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  max-width: 300px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 3em;
+  margin: 10px;
+}
+
+button {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+  border: 4px solid #000;
+}
+
+button:hover {
+  background-color: #bf62c9;
+}
+
+button:active {
+  background-color: #000;
+  color: #FFF;
+}
+</style>
